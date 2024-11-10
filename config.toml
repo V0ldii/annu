@@ -1,0 +1,63 @@
+baseurl      = "localhost"
+title        = "ajannu"
+languageCode = "en-us"
+theme        = "hello-friend-ng"
+
+#-----------------------------------------------------Menu----------------------------------------------------------
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Lets Write!"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About me!"
+    url        = "/about"
+    
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/projects"
+
+#----------------------------------------------------------
+[params]
+
+# Homepage
+[params.profileMode]
+enable = true
+title = "_aj_annu_"
+homeSubtitle = "Just Curious, one line of code at a time. Sharing what I learn as I go the triumphs and typos."
+imgaeUrl = "blog/assets/logo.png"
+imageWidth = 220
+imageHeight = 220
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = false
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  url = "<https://www.linkedin.com/in/annu-jangra-8978ab233/>"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "_aj_annu_"
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.en.params]
+    subtitle  = "A simple theme for Hugo"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "ajannu"
