@@ -2,32 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on ajannu</title>
-    <link>https://example.org/projects/</link>
+    <link>//localhost:1313/projects/</link>
     <description>Recent content in Projects on ajannu</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crpto Token</title>
-      <link>https://example.org/projects/crypto_token/</link>
+      <link>//localhost:1313/projects/crypto_token/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/crypto_token/</guid>
-      <description>Creating a Solana-Based Asset-Backed Cryptocurrency In today’s rapidly evolving financial landscape, blockchain technology is transforming how we perceive digital ownership, security, and asset management. My recent project explores these possibilities by creating a unique cryptocurrency token on the Solana blockchain—an asset-backed digital currency designed to bridge traditional value with innovative blockchain technology.
-Project Highlights: This project began with the creation and deployment of a custom Solana token. Using Solana’s robust programming model and consensus mechanisms, I developed a scalable cryptocurrency designed for speed, security, and efficiency.</description>
+      <guid>//localhost:1313/projects/crypto_token/</guid>
+      <description>&lt;h3 id=&#34;creating-a-solana-based-asset-backed-cryptocurrency&#34;&gt;Creating a Solana-Based Asset-Backed Cryptocurrency&lt;/h3&gt;
+&lt;p&gt;In today’s rapidly evolving financial landscape, blockchain technology is transforming how we perceive digital ownership, security, and asset management. My recent project explores these possibilities by creating a unique cryptocurrency token on the Solana blockchain—an asset-backed digital currency designed to bridge traditional value with innovative blockchain technology.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/blog/crypto1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Highlights:&lt;/strong&gt;
+This project began with the creation and deployment of a custom Solana token. Using Solana’s robust programming model and consensus mechanisms, I developed a scalable cryptocurrency designed for speed, security, and efficiency. To add intrinsic value to this token, I integrated asset-backed functionality. This feature enables the token to represent and hold real-world or digital assets, turning it into a viable store of value and unique asset holder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Local AI Server</title>
-      <link>https://example.org/projects/local_ai_server/</link>
+      <link>//localhost:1313/projects/local_ai_server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/local_ai_server/</guid>
-      <description>In this project, I set up a local AI server environment to support efficient AI model deployment and management on a personal machine. Leveraging Ollama for seamless model downloading and OpenUI for intuitive interaction, I created a streamlined platform for working with large language models, like Llama 3, directly on my device. This setup combines the flexibility of Docker for containerized management and Python version control with pyenv, ensuring compatibility across various dependencies.</description>
+      <guid>//localhost:1313/projects/local_ai_server/</guid>
+      <description>&lt;p&gt;In this project, I set up a local AI server environment to support efficient AI model deployment and management on a personal machine. Leveraging &lt;strong&gt;Ollama&lt;/strong&gt; for seamless model downloading and &lt;strong&gt;OpenUI&lt;/strong&gt; for intuitive interaction, I created a streamlined platform for working with large language models, like Llama 3, directly on my device. This setup combines the flexibility of Docker for containerized management and Python version control with &lt;strong&gt;pyenv&lt;/strong&gt;, ensuring compatibility across various dependencies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vulnerability Scanner</title>
-      <link>https://example.org/projects/vulnerablity_scanner/</link>
+      <link>//localhost:1313/projects/vulnerablity_scanner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/vulnerablity_scanner/</guid>
+      <guid>//localhost:1313/projects/vulnerablity_scanner/</guid>
       <description></description>
     </item>
   </channel>

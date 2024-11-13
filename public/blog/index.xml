@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on ajannu</title>
-    <link>https://example.org/blog/</link>
+    <link>//localhost:1313/blog/</link>
     <description>Recent content in Blogs on ajannu</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cybersecurity Polices</title>
-      <link>https://example.org/blog/cybersecurity_policies/</link>
+      <link>//localhost:1313/blog/cybersecurity_policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/cybersecurity_policies/</guid>
-      <description>In today&amp;rsquo;s digital world, cyber threats are a constant concern for organizations across all sectors. Developing robust cybersecurity policies is crucial to protect sensitive data, maintain operational resilience, and ensure compliance with regulations. Here’s an overview of key cybersecurity policies every organization should consider to build a strong foundation for digital defense.</description>
+      <guid>//localhost:1313/blog/cybersecurity_policies/</guid>
+      <description>&lt;p&gt;In today&amp;rsquo;s digital world, cyber threats are a constant concern for organizations across all sectors. Developing robust cybersecurity policies is crucial to protect sensitive data, maintain operational resilience, and ensure compliance with regulations. Here’s an overview of key cybersecurity policies every organization should consider to build a strong foundation for digital defense.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

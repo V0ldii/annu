@@ -1,4 +1,4 @@
-baseURL: "https://v0ldii.github.io/ajannu.github.io/"
+baseURL: "localhost"
 languageCode: "en-us"
 title: "ajannu"
 theme: ["PaperMod"]

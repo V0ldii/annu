@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-11-08T17:17:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/projects/</loc>
+    <loc>//localhost:1313/projects/</loc>
     <lastmod>2024-11-08T17:17:15+05:30</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url><url>
-    <loc>https://example.org/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/projects/crypto_token/</loc>
+    <loc>//localhost:1313/projects/crypto_token/</loc>
   </url><url>
-    <loc>https://example.org/blog/cybersecurity_policies/</loc>
+    <loc>//localhost:1313/blog/cybersecurity_policies/</loc>
   </url><url>
-    <loc>https://example.org/projects/local_ai_server/</loc>
+    <loc>//localhost:1313/projects/local_ai_server/</loc>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://example.org/projects/vulnerablity_scanner/</loc>
+    <loc>//localhost:1313/projects/vulnerablity_scanner/</loc>
   </url>
 </urlset>

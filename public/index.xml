@@ -2,49 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>ajannu</title>
-    <link>https://example.org/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on ajannu</description>
-    <generator>Hugo -- 0.128.2</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://example.org/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/about/</guid>
-      <description>Hi there👋
-I am Annu Jangra, but you can just call me Annu (cute name, right? hehe). Anyway, I am currently busy completing my bachelor&amp;rsquo;s in computer science.
-The best way to describe myself would be an all-rounder (haha, joking), but seriously, I am someone you could refer to as a &amp;ldquo;jack of all trades, master of none.&amp;rdquo;
-That might give you an idea that I have lots and lots of interests, right?</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/images/me1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Hi there👋&lt;/p&gt;
+&lt;p&gt;I am Annu Jangra, but you can just call me Annu (cute name, right? hehe). Anyway, I am currently busy completing my bachelor&amp;rsquo;s in computer science.&lt;/p&gt;
+&lt;p&gt;The best way to describe myself would be an all-rounder (haha, joking), but seriously, I am someone you could refer to as a &amp;ldquo;jack of all trades, master of none.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;That might give you an idea that I have lots and lots of interests, right? If not, well, now you know that I could do everything — the only exception being singing. Hey, wait, I could still jam with it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Crpto Token</title>
-      <link>https://example.org/projects/crypto_token/</link>
+      <link>//localhost:1313/projects/crypto_token/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/crypto_token/</guid>
-      <description>Creating a Solana-Based Asset-Backed Cryptocurrency In today’s rapidly evolving financial landscape, blockchain technology is transforming how we perceive digital ownership, security, and asset management. My recent project explores these possibilities by creating a unique cryptocurrency token on the Solana blockchain—an asset-backed digital currency designed to bridge traditional value with innovative blockchain technology.
-Project Highlights: This project began with the creation and deployment of a custom Solana token. Using Solana’s robust programming model and consensus mechanisms, I developed a scalable cryptocurrency designed for speed, security, and efficiency.</description>
+      <guid>//localhost:1313/projects/crypto_token/</guid>
+      <description>&lt;h3 id=&#34;creating-a-solana-based-asset-backed-cryptocurrency&#34;&gt;Creating a Solana-Based Asset-Backed Cryptocurrency&lt;/h3&gt;
+&lt;p&gt;In today’s rapidly evolving financial landscape, blockchain technology is transforming how we perceive digital ownership, security, and asset management. My recent project explores these possibilities by creating a unique cryptocurrency token on the Solana blockchain—an asset-backed digital currency designed to bridge traditional value with innovative blockchain technology.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//localhost:1313/blog/crypto1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Project Highlights:&lt;/strong&gt;
+This project began with the creation and deployment of a custom Solana token. Using Solana’s robust programming model and consensus mechanisms, I developed a scalable cryptocurrency designed for speed, security, and efficiency. To add intrinsic value to this token, I integrated asset-backed functionality. This feature enables the token to represent and hold real-world or digital assets, turning it into a viable store of value and unique asset holder.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cybersecurity Polices</title>
-      <link>https://example.org/blog/cybersecurity_policies/</link>
+      <link>//localhost:1313/blog/cybersecurity_policies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/blog/cybersecurity_policies/</guid>
-      <description>In today&amp;rsquo;s digital world, cyber threats are a constant concern for organizations across all sectors. Developing robust cybersecurity policies is crucial to protect sensitive data, maintain operational resilience, and ensure compliance with regulations. Here’s an overview of key cybersecurity policies every organization should consider to build a strong foundation for digital defense.</description>
+      <guid>//localhost:1313/blog/cybersecurity_policies/</guid>
+      <description>&lt;p&gt;In today&amp;rsquo;s digital world, cyber threats are a constant concern for organizations across all sectors. Developing robust cybersecurity policies is crucial to protect sensitive data, maintain operational resilience, and ensure compliance with regulations. Here’s an overview of key cybersecurity policies every organization should consider to build a strong foundation for digital defense.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Local AI Server</title>
-      <link>https://example.org/projects/local_ai_server/</link>
+      <link>//localhost:1313/projects/local_ai_server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/local_ai_server/</guid>
-      <description>In this project, I set up a local AI server environment to support efficient AI model deployment and management on a personal machine. Leveraging Ollama for seamless model downloading and OpenUI for intuitive interaction, I created a streamlined platform for working with large language models, like Llama 3, directly on my device. This setup combines the flexibility of Docker for containerized management and Python version control with pyenv, ensuring compatibility across various dependencies.</description>
+      <guid>//localhost:1313/projects/local_ai_server/</guid>
+      <description>&lt;p&gt;In this project, I set up a local AI server environment to support efficient AI model deployment and management on a personal machine. Leveraging &lt;strong&gt;Ollama&lt;/strong&gt; for seamless model downloading and &lt;strong&gt;OpenUI&lt;/strong&gt; for intuitive interaction, I created a streamlined platform for working with large language models, like Llama 3, directly on my device. This setup combines the flexibility of Docker for containerized management and Python version control with &lt;strong&gt;pyenv&lt;/strong&gt;, ensuring compatibility across various dependencies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vulnerability Scanner</title>
-      <link>https://example.org/projects/vulnerablity_scanner/</link>
+      <link>//localhost:1313/projects/vulnerablity_scanner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/projects/vulnerablity_scanner/</guid>
+      <guid>//localhost:1313/projects/vulnerablity_scanner/</guid>
       <description></description>
     </item>
   </channel>
