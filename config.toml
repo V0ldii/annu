@@ -1,4 +1,4 @@
-baseurl      = "https://v0ldii.github.io/ajannu/"
+baseurl      = "https://github.com/V0ldii/blog.git"
 title        = "ajannu"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
