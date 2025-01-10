@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "https://v0ldii.github.io/ajannu/"
 title        = "ajannu"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
