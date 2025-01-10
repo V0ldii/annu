@@ -1,3 +1,1 @@
-# ajannu.github.io
-
 #Welcome
