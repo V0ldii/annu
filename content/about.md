@@ -12,24 +12,21 @@ params:
       url: "https://www.linkedin.com/in/annu-jangra-8978ab233/"
       title: "LinkedIn"
 ---
+
 ![](/images/annu.jpg)
-![](/public/images/annu.jpg)
 
 Hi there👋
 
 I am Annu Jangra, but you can just call me Annu (cute name, right? hehe). Anyway, I am currently busy completing my bachelor's in computer science.
 
-The best way to describe myself would be an all-rounder (haha, joking), but seriously, I am someone you could refer to as a "jack of all trades, master of none."
+The best way to describe myself? Maybe an all-rounder (just kidding)! But seriously, I’m someone you could call a "jack of all trades, master of none." That probably tells you I have tons of interests, right? If not, now you know. I’d say I can do a bit of everything—well, except singing. 
 
-That might give you an idea that I have lots and lots of interests, right? If not, well, now you know that I could do everything — the only exception being singing. Hey, wait, I could still jam with it.
+But hey, I can still jam along! Not so bad, right? Do I sound fun? I hope I do.
 
-Not so bad, right? Do I sound fun? I hope I do.
+I’m particularly interested in exploring technology, programming, and cybersecurity, and I’m always excited to learn new things in these fields. 
 
-Anyway, if you want to connect, just find me here:
+Feel free to connect with me on any of these platforms:
 
-- [**Linkedin**](https://www.linkedin.com/in/annu-jangra-8978ab233/)
+- [**LinkedIn**](https://www.linkedin.com/in/annu-jangra-8978ab233/)
 - [**GitHub**](https://github.com/V0ldii)
 - [**Instagram**](https://www.instagram.com/_un_na_/profilecard/?igsh=MXg0NzlqcHlrdDBoOQ==)
-
-
-
