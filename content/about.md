@@ -12,8 +12,7 @@ params:
       url: "https://www.linkedin.com/in/annu-jangra-8978ab233/"
       title: "LinkedIn"
 ---
-![](/static/images/me1.jpg)
-![Image](../static/images/me1.jpg)
+
 ![](/public/images/me1.jpg)
 ![](/images/me1.jpg)
 
