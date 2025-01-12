@@ -17,6 +17,10 @@ menu:
       name: "About Me"
       url: "/about"
 
+    - identifier: posts
+      name: "posts"
+      url: "/posts"
+
 #-------------------------------------
 
 params:
