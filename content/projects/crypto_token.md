@@ -8,7 +8,9 @@ In today’s rapidly evolving financial landscape, blockchain technology is tran
 
 ![](/public/blog/ai1.jpeg)
 ![](/blog/ai1.jpeg)
-
+![]("/content/projects/crypto1.jpg")
+![]("/projects/crypto1.jpg")
+![]("/crypto1.jpg")
 **Project Highlights:**
 This project began with the creation and deployment of a custom Solana token. Using Solana’s robust programming model and consensus mechanisms, I developed a scalable cryptocurrency designed for speed, security, and efficiency. To add intrinsic value to this token, I integrated asset-backed functionality. This feature enables the token to represent and hold real-world or digital assets, turning it into a viable store of value and unique asset holder.
 
