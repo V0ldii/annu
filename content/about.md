@@ -14,7 +14,8 @@ params:
 ---
 ![](/static/images/me1.jpg)
 ![Image](../static/images/me1.jpg)
-![](public/images/me1.jpg)
+![](/public/images/me1.jpg)
+![](/images/me1.jpg)
 
 Hi there👋
 
