@@ -14,7 +14,7 @@ params:
 ---
 ![]("/images/me1.jpg")
 ![]("/images/annu.png")
-![]("/images/ME.jpg")
+![]("/public/images/ME.jpg")
 
 Hi there👋
 
