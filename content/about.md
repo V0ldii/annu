@@ -13,6 +13,7 @@ params:
       title: "LinkedIn"
 ---
 ![](/public/images/me1.jpg)
+![]("static/images/annu.png")
 
 Hi there👋
 
