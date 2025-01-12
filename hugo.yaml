@@ -36,7 +36,7 @@ params:
     enabled: true
     title: "_aj_annu_"
     subtitle: Just a curious soul, one line of code at a time. Sharing what I learn as I go, the triumphs and the typos.
-    imageUrl: "me2.jpg"
+    imageUrl: "images/me2.jpg"
     imageWidth: 220
     imageHeight: 220
 
