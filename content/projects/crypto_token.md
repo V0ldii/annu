@@ -6,7 +6,7 @@ title: "Crpto Token"
 
 In today’s rapidly evolving financial landscape, blockchain technology is transforming how we perceive digital ownership, security, and asset management. My recent project explores these possibilities by creating a unique cryptocurrency token on the Solana blockchain—an asset-backed digital currency designed to bridge traditional value with innovative blockchain technology.
 
-![](/images/crypto1.jpg)
+![](/static/images/crypto1.jpg)
 ![](/public/blog/ai1.jpeg)
 
 **Project Highlights:**
