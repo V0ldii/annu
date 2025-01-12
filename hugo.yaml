@@ -1,4 +1,4 @@
-baseURL: "localhost"
+baseURL: "https://v0ldii.github.io/annu/"
 languageCode: "en-us"
 title: "ajannu"
 theme: ["PaperMod"]
@@ -16,6 +16,10 @@ menu:
     - identifier: about
       name: "About Me"
       url: "/about"
+
+    - identifier: posts
+      name: "posts"
+      url: "/posts"
 
 #-------------------------------------
 

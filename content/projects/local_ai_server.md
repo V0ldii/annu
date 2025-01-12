@@ -7,4 +7,5 @@ In this project, I set up a local AI server environment to support efficient AI 
 
 ![](/images/ai1.jpeg)
 
+
 Throughout the project, I encountered and resolved key challenges, including environment configuration and permission management, optimizing the workflow for smooth AI model handling without needing external cloud resources. This guide details each step, from setup to model interaction, providing a comprehensive roadmap for anyone aiming to deploy and experiment with AI models locally.
