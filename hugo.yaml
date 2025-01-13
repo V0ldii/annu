@@ -5,9 +5,9 @@ theme: ["PaperMod"]
 
 menu: 
   main: 
-    - identifier: drafts
-      name: "drafts"
-      url: "/drafts"
+    - identifier: Drafts
+      name: "Drafts"
+      url: "/Drafts"
 
     - identifier: projects
       name: "Projects"
