@@ -5,9 +5,9 @@ theme: ["PaperMod"]
 
 menu: 
   main: 
-    - identifier: blog
-      name: "Blog"
-      url: "/blog"
+    - identifier: drafts
+      name: "drafts"
+      url: "/drafts"
 
     - identifier: projects
       name: "Projects"
