@@ -138,7 +138,7 @@ To manage Python versions for additional tools and scripts:
 
 This project was both challenging and rewarding. Setting up a local AI server with Ollama and OpenUI offers independence, privacy, and a hands-on experience with advanced AI models. The journey taught me the importance of debugging, system configuration, and persistence.
 
-Feel free to clone my repository and try it yourself: [GitHub Repository Link]
+Feel free to clone my repository and try it yourself: [](https://github.com/V0ldii/local_AI_server)]
 
-If you have any questions or insights, let’s discuss in the comments!
+
 
