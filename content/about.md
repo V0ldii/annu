@@ -5,7 +5,7 @@ toc: false
 params:
    socialIcons:
     - name: "GitHub"
-      url: "https://github.com/V0ldii"
+      url: "https://raw.githubusercontent.com/V0ldii/annu/refs/heads/main/static/icons/github.svg"
       title: "GitHub"
     
     - name: "LinkedIn"
