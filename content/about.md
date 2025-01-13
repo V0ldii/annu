@@ -14,6 +14,7 @@ params:
 ---
 
 ![](/images/me1.jpg)
+![](https://github.com/V0ldii/annu/blob/main/static/me1.jpg?raw=true)
 
 
 Hi there👋
