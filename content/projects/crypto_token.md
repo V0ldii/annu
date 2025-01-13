@@ -6,7 +6,7 @@ title: "Crpto Token"
 
 Blockchain technology has ushered in a new era of innovation, empowering individuals and organizations to create bespoke digital currencies and assets. The creation of a cryptocurrency token offers a unique opportunity for customization, financial empowerment, community engagement, and innovation. Leveraging blockchain technology, creators can deploy smart contracts, decentralized applications, and programmable money systems, fostering innovation and experimentation. Cryptocurrency tokens also provide a means of directly monetizing digital content, products, and services, bypassing traditional intermediaries.
 
-![](/images/crypto1.jpg](https://github.com/V0ldii/annu/blob/main/static/images/crypto1.jpg?raw=true))
+![](https://github.com/V0ldii/annu/blob/main/static/images/crypto1.jpg?raw=true))
 
 Blockchain technology has emerged as a transformative force in the realm of digital transactions, offering unprecedented levels of security, transparency, and decentralization. At the forefront of this technological revolution is **Solana**, a high-performance blockchain platform renowned for its **scalability**, **speed**, and **cost-effectiveness**. Solana's innovative consensus mechanism,**Proof of History (PoH)**, coupled with it's **Proof of Stake (PoS)** protocol, enables it to process thousands of transactions per second with minimal latency and fees, making it ideal for a wide range of decentralized applications (dApps) and cryptocurrency transactions.
 
