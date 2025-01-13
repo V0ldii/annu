@@ -8,7 +8,8 @@ In today’s interconnected world, critical infrastructure—spanning sectors su
 
 This blog explores the current state of India's cybersecurity policies, identifies key gaps, and proposes actionable solutions to fortify the nation’s defenses against evolving cyber threats.
 
-![](https://github.com/V0ldii/annu/blob/main/static/images/news1.png?raw=true)[](https://www.thehindubusinessline.com/info-tech/corporate-investment-in-cybersecurity-remains-minimal-national-cyber-security-coordinator/article69081017.ece)
+![](https://github.com/V0ldii/annu/blob/main/static/images/news1.png?raw=true)
+![](https://www.thehindubusinessline.com/info-tech/corporate-investment-in-cybersecurity-remains-minimal-national-cyber-security-coordinator/article69081017.ece)
 ---
 
 ### Understanding Critical Infrastructure and Cyber Threats
