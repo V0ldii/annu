@@ -14,12 +14,14 @@ params:
 ---
 
 ![](/images/me1.jpg)
-![](/static/images/me1.jpg)
 
 
 Hi there👋
 
-I am Annu Jangra.
+I am Annu Jangra, a student passionate about technology and cybersecurity. 
+I love exploring programming, network security, and building tools that make a difference. This blog is my space to share what I learn and dive into the ever-evolving world of tech. 
+
+Feel free to explore and connect!
 
 
 - [**Linkedin**](https://www.linkedin.com/in/annu-jangra-8978ab233/)
