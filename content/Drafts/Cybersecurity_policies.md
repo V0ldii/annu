@@ -7,7 +7,7 @@ title : Cybersecurity Policies
 In today’s interconnected world, critical infrastructure—spanning sectors such as healthcare, finance, transportation, and energy—forms the backbone of any nation's stability. For a rapidly digitalizing country like India, safeguarding these essential systems against cyber threats is paramount. However, despite progress, India’s cybersecurity framework still faces significant challenges, particularly when compared to other developing and developed nations.
 
 This blog explores the current state of India's cybersecurity policies, identifies key gaps, and proposes actionable solutions to fortify the nation’s defenses against evolving cyber threats.
-![](https://github.com/V0ldii/annu/blob/main/static/images/news1.png?raw=true[)[](https://www.thehindubusinessline.com/info-tech/corporate-investment-in-cybersecurity-remains-minimal-national-cyber-security-coordinator/article69081017.ece))
+![](https://github.com/V0ldii/annu/blob/main/static/images/news1.png?raw=true[)[](https://www.thehindubusinessline.com/info-tech/corporate-investment-in-cybersecurity-remains-minimal-national-cyber-security-coordinator/article69081017.ece)
 
 ---
 
