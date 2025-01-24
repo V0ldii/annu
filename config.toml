@@ -13,6 +13,11 @@ theme        = "hello-friend-ng"
     identifier = "about"
     name       = "About me!"
     url        = "/about"
+
+ [[menu.main]]
+    identifier = "Bug Hunt"
+    name       = "Bug Hunt"
+    url        = "/bug hunt"
     
   [[menu.main]]
     identifier = "projects"
