@@ -42,7 +42,7 @@ params:
     enabled: true
     title: "_aj_annu_"
     subtitle: Just a curious soul, one line of code at a time. Sharing what I learn as I go, the triumphs and the typos.
-    imageUrl: "https://github.com/V0ldii/annu/blob/main/content/download%20(1).jpg?raw=true"
+    imageUrl: "https://github.com/V0ldii/annu/blob/main/static/images/download%20(1).jpg?raw=true"
     imageWidth: 220
     imageHeight: 220
 
