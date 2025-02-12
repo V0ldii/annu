@@ -32,7 +32,7 @@ theme        = "hello-friend-ng"
 enable = true
 title = "_aj_annu_"
 homeSubtitle = "Just Curious, one line of code at a time. Sharing what I learn as I go the triumphs and typos."
-imgaeUrl = ""
+imgaeUrl = "https://github.com/V0ldii/annu/blob/main/content/download.jpg?raw=true"
 imageWidth = 220
 imageHeight = 220
 
