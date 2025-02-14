@@ -9,10 +9,6 @@ menu:
       name: "Drafts"
       url: "/Drafts"
 
-    - identifier: Bug Hunt
-      name: "Bug Hunt"
-      url: "/Bug Hunt"
-
     - identifier: projects
       name: "Projects"
       url: "/projects"
