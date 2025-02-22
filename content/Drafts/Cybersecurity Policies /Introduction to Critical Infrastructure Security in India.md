@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Critical Infrastructure Security in India"
+title: "2.0 Introduction to Critical Infrastructure Security in India"
 date: 2025-02-22
 series: ["Cybersecurity Policies"]
 ---
