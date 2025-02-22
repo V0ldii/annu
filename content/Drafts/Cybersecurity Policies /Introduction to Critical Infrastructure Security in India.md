@@ -1,5 +1,7 @@
 ---
-title : Introduction to Critical Infrastructure Security in India
+title: "Introduction to Critical Infrastructure Security in India"
+date: 2025-02-22
+series: ["Cybersecurity Policies"]
 ---
 
 ## Understanding Critical Infrastructure (CI)
