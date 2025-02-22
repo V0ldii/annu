@@ -1,5 +1,5 @@
 ---
-title : 5.0 Implementing Cybersecurity in India's Critical Infrastructure: Strategies, Challenges, and Solutions
+title : 5.0 Implementing Cybersecurity in India's Critical Infrastructure ( Strategies, Challenges, and Solutions )
 categories: ["Cybersecurity"]
 parent: "Cybersecurity Policies for Critical Infrastructure"
 ---
