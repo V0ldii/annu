@@ -1,5 +1,5 @@
 ---
-title: **India’s Existing Security Policies and Frameworks for Critical Infrastructure**
+title: India’s Existing Security Policies and Frameworks for Critical Infrastructure
 ---
 As India continues its digital and industrial expansion, securing critical infrastructure (CI) has become an urgent national priority. Various policies and frameworks have been established to safeguard essential sectors such as power, telecommunications, finance, and healthcare. This section explores the key policies, regulatory frameworks, and international standards shaping India’s approach to critical infrastructure protection.
 
