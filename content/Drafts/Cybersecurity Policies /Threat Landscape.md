@@ -1,0 +1,72 @@
+---
+title: 4.0 Threat Landscape for India's Critical Infrastructure  
+---
+
+India's critical infrastructure faces a range of cybersecurity threats, including cyberattacks from nation-state actors, insider threats, ransomware, and supply chain vulnerabilities. These threats can cause severe disruptions, financial losses, and national security risks. Below, we analyze the key threats categorized by their impact and target sectors.
+
+### 4.1 Cyber Threat Categories  
+
+1. **Nation-State Cyber Attacks**  
+   - **Target:** Power grids, banking, telecom, defense, and public administration.  
+   - **Example:** Advanced Persistent Threats (APTs) linked to foreign adversaries.  
+   - **Impact:** Espionage, data breaches, service disruptions, and sabotage.  
+
+2. **Ransomware & Malware Attacks**  
+   - **Target:** Healthcare, banking, IT, and government agencies.  
+   - **Example:** WannaCry (affected hospitals), LockBit ransomware.  
+   - **Impact:** Data encryption, financial extortion, and operational paralysis.  
+
+3. **Insider Threats**  
+   - **Target:** All sectors, especially financial institutions and IT infrastructure.  
+   - **Example:** Employees leaking sensitive data or sabotaging systems.  
+   - **Impact:** Unauthorized access, data theft, and reputational damage.  
+
+4. **Denial-of-Service (DoS) & Distributed Denial-of-Service (DDoS) Attacks**  
+   - **Target:** Telecom, banking, and government portals.  
+   - **Example:** Large-scale botnet attacks disrupting services.  
+   - **Impact:** Website downtime, financial loss, and disruption of essential services.  
+
+5. **Phishing & Social Engineering Attacks**  
+   - **Target:** Government, healthcare, and banking sectors.  
+   - **Example:** Phishing emails targeting officials for credential theft.  
+   - **Impact:** Unauthorized access, financial fraud, and data breaches.  
+
+6. **Supply Chain Attacks**  
+   - **Target:** IT, defense, and manufacturing sectors.  
+   - **Example:** Attacks on third-party vendors to infiltrate critical systems.  
+   - **Impact:** Data theft, system compromise, and software backdoors.  
+
+7. **Cloud Security Risks**  
+   - **Target:** IT, healthcare, and financial services.  
+   - **Example:** Poorly configured cloud storage leading to data leaks.  
+   - **Impact:** Unauthorized data exposure and compliance violations.  
+
+8. **IoT & SCADA Vulnerabilities**  
+   - **Target:** Power grids, oil & gas, and transportation systems.  
+   - **Example:** Stuxnet-like malware attacks on SCADA systems.  
+   - **Impact:** Industrial sabotage, operational failure, and blackouts.  
+
+9. **Cyber Espionage & Data Breaches**  
+   - **Target:** Government, defense, and corporate entities.  
+   - **Example:** State-sponsored espionage operations.  
+   - **Impact:** Loss of sensitive data, economic impact, and diplomatic tensions.  
+
+10. **Zero-Day Exploits**  
+    - **Target:** IT, public administration, and critical software systems.  
+    - **Example:** Exploits targeting unpatched vulnerabilities.  
+    - **Impact:** Widespread security breaches and data theft.  
+
+### 4.2 Sector-Specific Threat Analysis  
+
+| **Sector**                        | **Key Threats** |
+|-----------------------------------|----------------|
+| **Power & Energy**                 | Nation-state cyberattacks, SCADA vulnerabilities, ransomware. |
+| **Telecommunications**             | DDoS attacks, phishing, data breaches, supply chain risks. |
+| **Banking & Financial Services**   | Phishing, ransomware, insider threats, cyber fraud. |
+| **Transportation**                 | IoT vulnerabilities, GPS spoofing, cyber-physical attacks. |
+| **Healthcare**                     | Ransomware, data breaches, medical device hacking. |
+| **Water Supply & Sanitation**       | SCADA attacks, insider threats, DoS attacks. |
+| **Emergency Services**              | DDoS attacks, data manipulation, communication failures. |
+| **ICT (Information Technology)**   | Cloud security risks, zero-day exploits, malware attacks. |
+| **Manufacturing**                   | Supply chain attacks, IoT vulnerabilities, ransomware. |
+| **Public Administration**           | Cyber espionage, misinformation, nation-state threats. |
